@@ -1,4 +1,4 @@
-# Kiva_NLP
+# Kiva-NLP
 
 Pair programmed with Liyou Zhang github.com/liyouzhang
 
