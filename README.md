@@ -22,6 +22,7 @@ Pair programmed with Liyou Zhang github.com/liyouzhang
 2. Example:
 Below is the description with the highest weight on water cluster:
 
+![water_example](https://github.com/matchdutoit/Kiva_NLP/blob/master/Example_water.jpeg)
 
 ## Movitation
 
