@@ -17,12 +17,12 @@ Pair programmed with Liyou Zhang github.com/liyouzhang
 
 **How to Use**
 
-1. Each cluster provides the top popular words and also the descriptions with strongest signals
-< picture_weight>
+1. Each cluster provides the top popular words and also the descriptions with strongest signals.
 
 2. Example:
 Below is the description with the highest weight on water cluster:
-< picture_water>
+
+
 
 
 ## Movitation
